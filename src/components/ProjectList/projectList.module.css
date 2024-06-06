@@ -1,0 +1,11 @@
+.container
+{
+    column-count: 3;
+    width: 1050px;
+}
+.item
+{
+    display: inline-block;
+    width: 330px;
+    margin-bottom: 30px;
+}
